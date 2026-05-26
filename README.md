@@ -9,7 +9,7 @@ This repository serves as a dedicated space to document my proactive technical l
 ### 🤖 1. AI Agents & Machine Learning for Intelligent Workflow Automation
 * **Provider:** Udemy
 * **Completed:** February 2026
-* **Credential:** [View Certificate](./certificates/Machinelearningcertificate.pdf)
+* **Credential:** [View Certificate](./Machinelearningcertificate.pdf)
 * **What I Learned:**
   * Foundations of designing and deploying intelligent AI agents to handle automated tasks.
   * Integrating machine learning models into live, programmatic workflows to optimize system efficiency.
@@ -18,7 +18,7 @@ This repository serves as a dedicated space to document my proactive technical l
 ### 🐍 2. Python Programming Made Easy: A Beginner's Journey
 * **Provider:** Udemy
 * **Completed:** July 2025
-* **Credential:** [View Certificate](./certificates/phythonbeginercertificates.pdf)
+* **Credential:** [View Certificate](./phythonbeginercertificates.pdf)
 * **What I Learned:**
   * Core programming structures including loops, logical conditions, error handling, and data types.
   * Object-Oriented Programming (OOP) concepts crucial for scalable software construction.
@@ -27,7 +27,7 @@ This repository serves as a dedicated space to document my proactive technical l
 ### 📊 3. Simulink Onramp
 * **Provider:** MathWorks
 * **Completed:** October 2024
-* **Credential:** [View Certificate](./certificates/simulinkcertificate.pdf)
+* **Credential:** [View Certificate](./simulinkcertificate.pdf)
 * **What I Learned:**
   * Building, simulating, and analyzing dynamic, multi-domain physical systems using block diagrams.
   * Creating continuous and discrete mathematical models to simulate engineering problems.
@@ -36,7 +36,7 @@ This repository serves as a dedicated space to document my proactive technical l
 ### 🛠️ 4. MATLAB Desktop Tools and Troubleshooting Scripts
 * **Provider:** MathWorks
 * **Completed:** July 2024
-* **Credential:** [View Certificate](./certificates/matlab.pdf)
+* **Credential:** [View Certificate](./matlab.pdf)
 * **What I Learned:**
   * Navigating the MATLAB desktop environment efficiently, optimizing the workspace, and managing complex script files.
   * Utilizing advanced debugging and troubleshooting tools to isolate syntax and logical errors within engineering scripts.
