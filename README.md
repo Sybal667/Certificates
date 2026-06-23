@@ -1,6 +1,6 @@
 # Technical Certifications Portfolio
 
-This repository serves as a dedicated space to document my proactive technical learning and skill acquisition outside of my formal university curriculum. It showcases my self-paced training in software development, engineering simulation, and intelligent automation frameworks.
+This repository serves as a dedicated space to document my proactive technical learning and skill acquisition outside of my formal university curriculum.
 
 ---
 
@@ -22,7 +22,6 @@ This repository serves as a dedicated space to document my proactive technical l
 * **What I Learned:**
   * Core programming structures including loops, logical conditions, error handling, and data types.
   * Object-Oriented Programming (OOP) concepts crucial for scalable software construction.
-  * Designing algorithms to process data arrays and solve foundational structural programming problems.
 
 ### 📊 3. Simulink Onramp
 * **Provider:** MathWorks
